@@ -1,0 +1,1 @@
+console.log('testing auth system with checks');
